@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🚀File Uploader</title>
+  <script src="https://apis.google.com/js/api.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.8.5/jsrsasign-all-min.js"></script>
+  <script src="app.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(135deg, hsl(300, 8%, 97%) 0%, #819eb1 100%);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      color: #333;
+    }
+
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+    .container {
+      background: rgba(254, 253, 253, 0.95);
+      backdrop-filter: blur(5px);
+      border-radius: 12px;
+      padding: 35px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 600px;
+      border: 1px solid rgba(183, 52, 219, 0.2);
+      animation: fadeIn 0.5s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2.4em;
+      font-weight: 500;
+      color: #2C3E50;
+      margin-bottom: 25px;
+      letter-spacing: 1px;
+    }
+
+    .upload-area {
+      background: #FFFFFF;
+      border: 2px dashed #3498DB;
+      border-radius: 10px;
+      padding: 30px;
+      text-align: center;
+      transition: all 0.3s ease;
+      cursor: pointer;
+      margin-bottom: 20px;
+    }
+
+    .upload-area:hover {
+      border-color: #2C3E50;
+      background: rgba(52, 152, 219, 0.05);
+    }
+
+    .upload-area.drag-over {
+      border-color: #2C3E50;
+      background: rgba(52, 152, 219, 0.1);
+      box-shadow: 0 0 10px rgba(52, 152, 219, 0.2);
+    }
+
+    .upload-icon {
+      font-size: 2.5em;
+      color: #3498DB;
+      margin-bottom: 15px;
+    }
+
+    .upload-text {
+      font-size: 1.2em;
+      color: #34495E;
+      font-weight: 400;
+    }
+
+    .upload-subtext {
+      font-size: 0.85em;
+      color: #7F8C8D;
+      margin-top: 5px;
+    }
+
+    input[type="file"] {
+      display: none;
+    }
+
+    .file-info {
+      background: rgba(52, 152, 219, 0.05);
+      border-radius: 8px;
+      padding: 12px;
+      margin-bottom: 20px;
+      display: none;
+      border: 1px solid rgba(52, 152, 219, 0.1);
+    }
+
+    .file-info.show {
+      display: block;
+      animation: slideDown 0.3s ease;
+    }
+
+    @keyframes slideDown {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .file-name {
+      font-weight: 500;
+      color: #2C3E50;
+      margin-bottom: 5px;
+    }
+
+    .file-size {
+      color: #7F8C8D;
+      font-size: 0.9em;
+    }
+
+    button {
+      background: linear-gradient(90deg, #2C3E50, #3498DB);
+      color: #FFFFFF;
+      padding: 12px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1.1em;
+      font-weight: 500;
+      width: 100%;
+      transition: all 0.3s ease;
+    }
+
+    button:disabled {
+      background: #ECF0F1;
+      color: #BDC3C7;
+      cursor: not-allowed;
+    }
+
+    button:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 0 5px 15px rgba(52, 152, 219, 0.3);
+    }
+
+    button:active:not(:disabled) {
+      transform: translateY(0);
+    }
+
+    .progress-bar {
+      width: 100%;
+      height: 12px;
+      background: #ECF0F1;
+      border-radius: 6px;
+      margin: 15px 0;
+      overflow: hidden;
+      display: none;
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .progress-bar.show {
+      display: block;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #2ECC71, #3498DB);
+      border-radius: 6px;
+      transition: width 0.4s ease-out;
+      width: 0%;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .message {
+      margin-top: 15px;
+      padding: 10px;
+      border-radius: 8px;
+      text-align: center;
+      animation: fadeIn 0.3s ease;
+    }
+
+    .success {
+      background: rgba(52, 152, 219, 0.1);
+      color: #3498DB;
+      border: 1px solid rgba(52, 152, 219, 0.2);
+    }
+
+    .error {
+      background: rgba(231, 76, 60, 0.1);
+      color: #E74C3C;
+      border: 1px solid rgba(231, 76, 60, 0.2);
+    }
+
+    .download-container {
+      background: rgba(52, 152, 219, 0.05);
+      border-radius: 8px;
+      padding: 15px;
+      margin-top: 15px;
+      display: none;
+      border: 1px solid rgba(52, 152, 219, 0.1);
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .download-container.show {
+      display: flex;
+      animation: slideDown 0.3s ease;
+    }
+
+    .download-btn {
+      background: #2C3E50;
+      color: #FFFFFF;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 1em;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      display: inline-block;
+      text-align: center;
+    }
+
+    .download-btn:hover {
+      background: #3498DB;
+      transform: translateY(-1px);
+    }
+  </style>
+  
+</head>
+<body>
+  <div class="container">
+    <h1>🚀File Uploader</h1>
+    
+    <div class="upload-area" id="uploadArea">
+      <div class="upload-icon">📤</div>
+      <div class="upload-text">Upload or drag your file here</div>
+      <div class="upload-subtext">Max 2 MB, all formats supported</div>
+    </div>
+    
+    <input type="file" id="fileInput" />
+    
+    <div class="file-info" id="fileInfo">
+      <div class="file-name" id="fileName"></div>
+      <div class="file-size" id="fileSize"></div>
+    </div>
+    
+    <button id="uploadButton" disabled>
+      <span id="buttonText">Select a file</span>
+    </button>
+    
+    <div class="progress-bar" id="progressBar">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+    
+    <div id="message" class="message"></div>
+    
+    <div class="download-container" id="downloadContainer">
+      <a href="#" class="download-btn" id="downloadBtn">Download Your File</a>
+    </div>
+  </div>
+
+</body>
+</html>
