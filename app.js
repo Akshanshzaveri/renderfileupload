@@ -1,1 +1,340 @@
-function _0x8f47(){const _0x1a90e5=['✔️\x20Ready\x20to\x20upload.','112hwhTRX','private_key','jws','add','addEventListener','DOMContentLoaded','application/x-www-form-urlencoded','77962kLWNKc','1622018YQNvkF','anyone','❌\x20Upload\x20failed:\x20','⚠️\x20No\x20file\x20selected.','/permissions','style','keydown','textContent','contextmenu','className','click','test1-382@file-upload-464110.iam.gserviceaccount.com','buttonText','POST','getElementById','Bearer\x20','3186900UKDJxu','progressFill','✅\x20Authentication\x20successful.','⚠️\x20File\x20size\x20(','Authenticating...','application/json','change','service_account','now','downloadBtn','fileName','preventDefault','📏\x20','classList','17970462uryCtN','25924IrXYJa','toFixed','RS256','stringify','485nxinuB','disabled','client_email','grant_type=urn%3Aietf%3Aparams%3Aoauth%3Agrant-type%3Ajwt-bearer&assertion=','application/octet-stream','fileInfo','name','message\x20','append','key','-----BEGIN\x20PRIVATE\x20KEY-----\x0aMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD5G00Dm2oSaOxp\x0atgPZXD1geruWagJ6T7W9CEIRwHmTOpS16zkbcfHSLJ7cp3pzFSLgNQc42LMuv4mJ\x0aXZ4zOOoZRsip06/BfbtcXsIZomgQfyDyNHUnrJvjeoxga+DK/pQJnQGFJDoHpbQo\x0aPv1dlgGQOSImy6rFiwqI0wD+5YP1id6+JtjeHUNrkc99JbLb6+GIbe4QfAipKsSJ\x0a2UiCi0GVzgk+Z8HTNzNT+U8fWQPKzGnhYxu/JXf9w/FDUCIOcRYmxJ6c1roISgD0\x0a5VyA79qlPNR3dK9NMUImuVHykIMsHsa22Oa6QIlNq/0OZTFf8U18QxOEhzUbgRaV\x0adjVROsjfAgMBAAECggEAN8wBLp8nnbMJzU3bQ9sQ1mT3UqQxJONo0kwgvGgv8yXq\x0afGsRMhAOOeULumH7H/7qfmzyTq3fSMfXT0D8d/22Fe5QcRW85uq6RmDlOieyBovr\x0aPcU5Pqc/ja779XcEdYObdiHIXuGz69WWanNdfhJlDEB34Ve6SyAvPmGA9hdDvQHx\x0aFP8ZILrHiGXQtd2zdp0JhKueTPrSTV02c6XRYud+qXuyRav69l0/X32+0wT1SUpc\x0atSaanb1EqqYIAIv7p7EaGJqqveNWLAMbLGqlLpDd35A8iLsHW7WxltD/JXFM9vNc\x0a3eRxgX6HWbPx/C2Avt+0fu2wYL60MoJh7VV4j5hzsQKBgQD8tz4Pefa0gImTs0oj\x0ahuW12LVty4YsS6TEI+cedFbpDS05qvEwlNdm9vR0kw0A7+H/mT909muePlOAmP6Y\x0adkBllQsUus+dSxBp8VtQ17r9WLL1vuAJThQNao8WW2FC6RCNItb5a/WTJuyBwIgP\x0aMjG1yqPcOiXLBj98plW2nuveMQKBgQD8WA0aEX+tWvOQ7IdL1iu018ANgilT87XX\x0aOfxLwMavuwNCh4WE6rJlNLBEhZ8YZaSCg3HhJbtRLqVmjJW0QbRMiuj+W+RjvLSl\x0aoKcmZoJUsIZYdxqQKsf5mSU4OdDIthRSuJ2rmH8SpKMUGKggzZtClD4DRTMa+YbC\x0aBfKxRPAEDwKBgQDuI8rykI6/J0T9jvz1H4BFbRIChcBI63s3bVG0bBMeB9GvPvuL\x0aOScGGv7e/1dIo8RGtOWMVU2yT68mRoXbq8shLmLDxQoxgfPUsaDIPJIzfKsfUiAS\x0aBKZ2wgxWGAQ+Jhv3s3X6khZW9V33IzPThgw779mbhJvqhle7IY8xyO4hcQKBgG6Z\x0aWQS37rHYTzCRuqrub7GPbkl9Zwe4pVZzv7SkBXE4EjGynD6pbw8UjL07o4NZ6USa\x0av+riUrs+KphLvcGHmrKBn6T8OZnNN4/wXdJi03Sy+e8EJMxTM9qd2MZP8MZHp5ip\x0a+dEfwXI2XpOMSwQ1mXsQ5i0gw0lrXDjlyn0PrfLZAoGADiEWl0NHFWrTb/LCznzT\x0a37GcgdgDm1y2Yw5bfVAKFYNLZIZdWOGL3UBE9qXgIydItr3kS7Qch+dP0w3rs8jS\x0aNFsdllG4zyYJsNHBAeAoRWAsIbluO932uWHBHCXUtzmbsdJvlrGI7nvfVrEYSi8/\x0alUp4QjiU212lRjhV3SMw4QI=\x0a-----END\x20PRIVATE\x20KEY-----','✔️\x20Download\x20completed.\x20Ready\x20for\x20new\x20upload.','type','message','length','drag-over','show','sign','341576KuBBTl','Upload\x20File','dragover','https://accounts.google.com/o/oauth2/auth','1Vtrjw1SyLzDO-q0W3GE9T6l5k-suR14u','uploadButton','dataTransfer','❌\x20Authentication\x20failed:\x20','error','href','log','remove','floor','width','uploadArea','size','4379742rDvsnI','10yicNlA','files','https://www.googleapis.com/drive/v3/files/','metadata','fileInput','json','📄\x20','Error\x20making\x20file\x20public:','download','F12','fileSize','dragleave','https://www.googleapis.com/oauth2/v1/certs','File\x20exceeds\x202\x20MB\x20limit','file-upload-464110','opacity','downloadContainer','success','106378482562789733286','progressBar','reader','token_uri'];_0x8f47=function(){return _0x1a90e5;};return _0x8f47();}const _0x103408=_0x18d9;function _0x18d9(_0x2b9ef5,_0x2a7617){const _0x8f4788=_0x8f47();return _0x18d9=function(_0x18d9eb,_0x5db0db){_0x18d9eb=_0x18d9eb-0x178;let _0x194eb2=_0x8f4788[_0x18d9eb];return _0x194eb2;},_0x18d9(_0x2b9ef5,_0x2a7617);}(function(_0x47e4ef,_0x25a59f){const _0x401ba0=_0x18d9,_0x3d0776=_0x47e4ef();while(!![]){try{const _0x8f9266=parseInt(_0x401ba0(0x1a2))/0x1+parseInt(_0x401ba0(0x1a3))/0x2+parseInt(_0x401ba0(0x1b3))/0x3+parseInt(_0x401ba0(0x1c2))/0x4*(parseInt(_0x401ba0(0x1c6))/0x5)+-parseInt(_0x401ba0(0x183))/0x6+-parseInt(_0x401ba0(0x19b))/0x7*(-parseInt(_0x401ba0(0x1d8))/0x8)+-parseInt(_0x401ba0(0x1c1))/0x9*(parseInt(_0x401ba0(0x184))/0xa);if(_0x8f9266===_0x25a59f)break;else _0x3d0776['push'](_0x3d0776['shift']());}catch(_0x542aca){_0x3d0776['push'](_0x3d0776['shift']());}}}(_0x8f47,0x82f55),document[_0x103408(0x19f)](_0x103408(0x1a0),()=>{const _0x35eb9d=_0x103408;document[_0x35eb9d(0x19f)](_0x35eb9d(0x1ab),_0x57d177=>_0x57d177[_0x35eb9d(0x1be)]()),document[_0x35eb9d(0x19f)](_0x35eb9d(0x1a9),_0xe6c95d=>{const _0x557bae=_0x35eb9d;if(_0xe6c95d['ctrlKey']&&_0xe6c95d['shiftKey']&&_0xe6c95d[_0x557bae(0x1cf)]==='I')_0xe6c95d[_0x557bae(0x1be)]();if(_0xe6c95d['ctrlKey']&&_0xe6c95d['key']==='U')_0xe6c95d[_0x557bae(0x1be)]();if(_0xe6c95d[_0x557bae(0x1cf)]===_0x557bae(0x18d))_0xe6c95d[_0x557bae(0x1be)]();});const _0x1f41f2=_0x35eb9d(0x1dc),_0x514427=0x2*0x400*0x400;let _0x1c9da2=null,_0x310945=null;const _0x2a6f00={'type':_0x35eb9d(0x1ba),'project_id':_0x35eb9d(0x192),'private_key_id':'192172f50f5016c02d415487ebf07b547342440e','private_key':_0x35eb9d(0x1d0),'client_email':_0x35eb9d(0x1ae),'client_id':_0x35eb9d(0x196),'auth_uri':_0x35eb9d(0x1db),'token_uri':'https://oauth2.googleapis.com/token','auth_provider_x509_cert_url':_0x35eb9d(0x190),'client_x509_cert_url':'https://www.googleapis.com/robot/v1/metadata/x509/test1-382%40file-upload-464110.iam.gserviceaccount.com','universe_domain':'googleapis.com'},_0x21297d=document['getElementById'](_0x35eb9d(0x181)),_0x294a01=document['getElementById'](_0x35eb9d(0x188)),_0x509cfe=document[_0x35eb9d(0x1b1)](_0x35eb9d(0x178)),_0x24c4f9=document[_0x35eb9d(0x1b1)](_0x35eb9d(0x1af)),_0x2e0253=document[_0x35eb9d(0x1b1)](_0x35eb9d(0x197)),_0x51ad94=document[_0x35eb9d(0x1b1)](_0x35eb9d(0x194)),_0x5e51e5=document[_0x35eb9d(0x1b1)](_0x35eb9d(0x1bc)),_0x5a53f1=document['getElementById']('message'),_0x3362e0=document[_0x35eb9d(0x1b1)](_0x35eb9d(0x1cb)),_0x499b2c=document['getElementById'](_0x35eb9d(0x1bd)),_0x4a86ea=document['getElementById'](_0x35eb9d(0x18e));function _0x388836(){const _0x573879=_0x35eb9d,_0x234385={'alg':_0x573879(0x1c4),'typ':'JWT'},_0x7c5e1c=Math['floor'](Date[_0x573879(0x1bb)]()/0x3e8),_0x5c40ec={'iss':_0x2a6f00[_0x573879(0x1c8)],'scope':'https://www.googleapis.com/auth/drive.file','aud':_0x2a6f00['token_uri'],'exp':_0x7c5e1c+0xe10,'iat':_0x7c5e1c},_0xb7a209=JSON['stringify'](_0x234385),_0xa28a7f=JSON[_0x573879(0x1c5)](_0x5c40ec),_0x182a5f=_0x2a6f00[_0x573879(0x19c)],_0x3423e3=KJUR[_0x573879(0x19d)]['JWS'][_0x573879(0x1d7)](_0x573879(0x1c4),_0xb7a209,_0xa28a7f,_0x182a5f);return _0x3423e3;}async function _0x376709(_0x25ce54){const _0x48113c=_0x35eb9d,_0x11f9eb=await fetch(_0x2a6f00[_0x48113c(0x199)],{'method':_0x48113c(0x1b0),'headers':{'Content-Type':_0x48113c(0x1a1)},'body':_0x48113c(0x1c9)+_0x25ce54}),_0x425ae9=await _0x11f9eb['json']();return _0x425ae9['access_token'];}async function _0x33d0a2(_0x2d09f8){const _0xa40698=_0x35eb9d;try{return await fetch(_0xa40698(0x186)+_0x2d09f8+_0xa40698(0x1a7),{'method':'POST','headers':{'Authorization':_0xa40698(0x1b2)+_0x310945,'Content-Type':_0xa40698(0x1b8)},'body':JSON[_0xa40698(0x1c5)]({'role':_0xa40698(0x198),'type':_0xa40698(0x1a4)})}),'https://drive.google.com/uc?export=download&id='+_0x2d09f8;}catch(_0x38a9db){return console[_0xa40698(0x17b)](_0xa40698(0x18b),_0x38a9db),'https://drive.google.com/uc?export=download&id='+_0x2d09f8;}}async function _0x5c24ed(){const _0x2d257d=_0x35eb9d;try{const _0x1e06c8=_0x388836();_0x310945=await _0x376709(_0x1e06c8),_0x43c770(_0x2d257d(0x1b5),_0x2d257d(0x195)),_0x270a57();}catch(_0x51c847){_0x43c770(_0x2d257d(0x17a)+_0x51c847[_0x2d257d(0x1d3)],'error'),_0x509cfe[_0x2d257d(0x1c7)]=!![];}}function _0x126f35(_0x36b20c){const _0x536500=_0x35eb9d;if(_0x36b20c===0x0)return'0\x20Bytes';const _0x367785=0x400,_0x4cf5c2=['Bytes','KB','MB','GB'],_0x52b6ce=Math[_0x536500(0x17f)](Math[_0x536500(0x17d)](_0x36b20c)/Math[_0x536500(0x17d)](_0x367785));return parseFloat((_0x36b20c/Math['pow'](_0x367785,_0x52b6ce))[_0x536500(0x1c3)](0x2))+'\x20'+_0x4cf5c2[_0x52b6ce];}function _0x1f93cb(_0x1e3d3f){const _0x45e1fb=_0x35eb9d,_0x3aa626=document[_0x45e1fb(0x1b1)](_0x45e1fb(0x1b4));_0x3aa626&&(_0x3aa626['style'][_0x45e1fb(0x180)]=_0x1e3d3f+'%');}function _0x270a57(){const _0x3cdd16=_0x35eb9d;if(!_0x310945){_0x509cfe['disabled']=!![],_0x24c4f9[_0x3cdd16(0x1aa)]=_0x3cdd16(0x1b7);return;}if(!_0x1c9da2){_0x509cfe[_0x3cdd16(0x1c7)]=!![],_0x24c4f9[_0x3cdd16(0x1aa)]='Select\x20a\x20file',_0xa03cf0();return;}if(_0x1c9da2[_0x3cdd16(0x182)]>_0x514427){_0x509cfe[_0x3cdd16(0x1c7)]=!![],_0x24c4f9[_0x3cdd16(0x1aa)]=_0x3cdd16(0x191),_0x43c770(_0x3cdd16(0x1b6)+_0x126f35(_0x1c9da2[_0x3cdd16(0x182)])+')\x20exceeds\x202\x20MB\x20limit.\x20Please\x20select\x20a\x20smaller\x20file.',_0x3cdd16(0x17b));return;}_0x509cfe[_0x3cdd16(0x1c7)]=![],_0x24c4f9[_0x3cdd16(0x1aa)]=_0x3cdd16(0x1d9),_0x43c770('✔️\x20Ready\x20to\x20upload\x20New\x20or\x20You\x20can\x20Download.',_0x3cdd16(0x195));}function _0x43c770(_0x3b56ff,_0x249756){const _0x5db2b9=_0x35eb9d;_0x5a53f1[_0x5db2b9(0x1aa)]=_0x3b56ff,_0x5a53f1['className']=_0x5db2b9(0x1cd)+_0x249756;}function _0xa03cf0(){const _0x1cfc22=_0x35eb9d;_0x5a53f1[_0x1cfc22(0x1aa)]='',_0x5a53f1[_0x1cfc22(0x1ac)]=_0x1cfc22(0x1d3);}function _0x4b6e4b(_0x534285){const _0x116244=_0x35eb9d;_0x1c9da2=_0x534285;if(!_0x1c9da2){_0x3362e0[_0x116244(0x1c0)]['remove']('show'),_0x43c770(_0x116244(0x1a6),_0x116244(0x17b)),_0x270a57();return;}_0x1c9da2[_0x116244(0x182)]>_0x514427?(_0x43c770(_0x116244(0x1b6)+_0x126f35(_0x1c9da2['size'])+')\x20exceeds\x202\x20MB\x20limit.\x20Please\x20select\x20a\x20smaller\x20file.',_0x116244(0x17b)),_0x3362e0[_0x116244(0x1c0)][_0x116244(0x17e)](_0x116244(0x1d6)),_0x1c9da2=null):(_0x499b2c[_0x116244(0x1aa)]=_0x116244(0x18a)+_0x1c9da2[_0x116244(0x1cc)],_0x4a86ea['textContent']=_0x116244(0x1bf)+_0x126f35(_0x1c9da2['size']),_0x3362e0[_0x116244(0x1c0)][_0x116244(0x19e)](_0x116244(0x1d6)),_0x43c770(_0x116244(0x19a),_0x116244(0x195))),_0x270a57();}function _0x422f84(_0x19fa47,_0x2174e4){const _0x6f3dc1=_0x35eb9d;_0x5e51e5[_0x6f3dc1(0x17c)]=_0x19fa47,_0x5e51e5[_0x6f3dc1(0x18c)]=_0x2174e4,_0x51ad94[_0x6f3dc1(0x1c0)][_0x6f3dc1(0x19e)](_0x6f3dc1(0x1d6)),_0x5e51e5[_0x6f3dc1(0x19f)](_0x6f3dc1(0x1ad),()=>{setTimeout(()=>{const _0x441b72=_0x18d9;_0x51ad94[_0x441b72(0x1c0)]['remove']('show'),_0x43c770(_0x441b72(0x1d1),_0x441b72(0x195)),_0x294a01['value']='',_0x3362e0[_0x441b72(0x1c0)][_0x441b72(0x17e)](_0x441b72(0x1d6)),_0x1c9da2=null,_0x270a57();},0x64);},{'once':!![]});}_0x21297d[_0x35eb9d(0x19f)](_0x35eb9d(0x1ad),()=>{const _0x1eb459=_0x35eb9d;_0x294a01[_0x1eb459(0x1ad)]();}),_0x21297d['addEventListener'](_0x35eb9d(0x1da),_0x47b9fc=>{const _0x11e205=_0x35eb9d;_0x47b9fc['preventDefault'](),_0x21297d['classList'][_0x11e205(0x19e)](_0x11e205(0x1d5));}),_0x21297d[_0x35eb9d(0x19f)](_0x35eb9d(0x18f),()=>{_0x21297d['classList']['remove']('drag-over');}),_0x21297d[_0x35eb9d(0x19f)]('drop',_0x1d4f4c=>{const _0x4fa51d=_0x35eb9d;_0x1d4f4c[_0x4fa51d(0x1be)](),_0x21297d[_0x4fa51d(0x1c0)][_0x4fa51d(0x17e)](_0x4fa51d(0x1d5)),_0x1d4f4c[_0x4fa51d(0x179)][_0x4fa51d(0x185)][_0x4fa51d(0x1d4)]>0x0&&_0x4b6e4b(_0x1d4f4c['dataTransfer'][_0x4fa51d(0x185)][0x0]);}),_0x294a01[_0x35eb9d(0x19f)](_0x35eb9d(0x1b9),_0x102ce6=>{const _0x464490=_0x35eb9d;_0x102ce6['target'][_0x464490(0x185)][_0x464490(0x1d4)]>0x0&&_0x4b6e4b(_0x102ce6['target'][_0x464490(0x185)][0x0]);}),_0x509cfe['addEventListener'](_0x35eb9d(0x1ad),async()=>{const _0x1087cf=_0x35eb9d;if(!_0x1c9da2||!_0x310945||_0x1c9da2[_0x1087cf(0x182)]>_0x514427){_0x43c770('⚠️\x20Please\x20select\x20a\x20file\x20under\x202\x20MB\x20and\x20ensure\x20authentication.',_0x1087cf(0x17b));return;}_0x509cfe[_0x1087cf(0x1c7)]=!![],_0x24c4f9[_0x1087cf(0x1a8)][_0x1087cf(0x193)]='0',_0x2e0253[_0x1087cf(0x1c0)][_0x1087cf(0x19e)](_0x1087cf(0x1d6)),_0x1f93cb(0x0);let _0x5bc210=0x0;const _0x222679=setInterval(()=>{_0x5bc210+=Math['random']()*0xa;if(_0x5bc210>=0x5a)_0x5bc210=0x5a;_0x1f93cb(_0x5bc210);},0xc8);_0x43c770('⏳\x20Uploading...','success');try{const _0x25c646={'name':_0x1c9da2[_0x1087cf(0x1cc)],'parents':[_0x1f41f2],'mimeType':_0x1c9da2[_0x1087cf(0x1d2)]||_0x1087cf(0x1ca)},_0x583c18=new FormData();_0x583c18[_0x1087cf(0x1ce)](_0x1087cf(0x187),new Blob([JSON[_0x1087cf(0x1c5)](_0x25c646)],{'type':_0x1087cf(0x1b8)})),_0x583c18[_0x1087cf(0x1ce)]('file',_0x1c9da2);const _0x2365c1=await fetch('https://www.googleapis.com/upload/drive/v3/files?uploadType=multipart',{'method':_0x1087cf(0x1b0),'headers':{'Authorization':'Bearer\x20'+_0x310945},'body':_0x583c18});clearInterval(_0x222679),_0x1f93cb(0x64);if(_0x2365c1['ok']){const _0x9f6845=await _0x2365c1[_0x1087cf(0x189)](),_0x2c672b=await _0x33d0a2(_0x9f6845['id']);_0x43c770('✅\x20Upload\x20successful!\x20Ready\x20to\x20Download.',_0x1087cf(0x195)),_0x422f84(_0x2c672b,_0x1c9da2['name']);}else{const _0x1eeeb0=await _0x2365c1[_0x1087cf(0x189)]();_0x43c770(_0x1087cf(0x1a5)+_0x1eeeb0[_0x1087cf(0x17b)][_0x1087cf(0x1d3)],_0x1087cf(0x17b)),_0x51ad94[_0x1087cf(0x1c0)][_0x1087cf(0x17e)]('show');}}catch(_0x1049bc){clearInterval(_0x222679),_0x43c770('❌\x20Upload\x20error:\x20'+_0x1049bc[_0x1087cf(0x1d3)],_0x1087cf(0x17b)),_0x51ad94[_0x1087cf(0x1c0)][_0x1087cf(0x17e)](_0x1087cf(0x1d6));}finally{setTimeout(()=>{const _0x3306a3=_0x1087cf;_0x24c4f9['style'][_0x3306a3(0x193)]='1',_0x2e0253[_0x3306a3(0x1c0)][_0x3306a3(0x17e)](_0x3306a3(0x1d6)),_0x1f93cb(0x0),_0x270a57();},0x1f4);}}),_0x5c24ed();}));
+// app.js
+
+document.addEventListener('DOMContentLoaded', () => {
+  // Disable right-click and developer tools
+  document.addEventListener('contextmenu', e => e.preventDefault());
+  document.addEventListener('keydown', e => {
+    if (e.ctrlKey && e.shiftKey && e.key === 'I') e.preventDefault();
+    if (e.ctrlKey && e.key === 'U') e.preventDefault();
+    if (e.key === 'F12') e.preventDefault();
+  });
+
+  const FOLDER_ID = '1Vtrjw1SyLzDO-q0W3GE9T6l5k-suR14u';
+  const MAX_FILE_SIZE = 2 * 1024 * 1024; // 2 MB in bytes
+  let file = null;
+  let accessToken = null;
+
+  // Service account credentials
+  const keys = {
+    type: "service_account",
+    project_id: "file-upload-464110",
+    private_key_id: "192172f50f5016c02d415487ebf07b547342440e",
+    private_key: `-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD5G00Dm2oSaOxp
+tgPZXD1geruWagJ6T7W9CEIRwHmTOpS16zkbcfHSLJ7cp3pzFSLgNQc42LMuv4mJ
+XZ4zOOoZRsip06/BfbtcXsIZomgQfyDyNHUnrJvjeoxga+DK/pQJnQGFJDoHpbQo
+Pv1dlgGQOSImy6rFiwqI0wD+5YP1id6+JtjeHUNrkc99JbLb6+GIbe4QfAipKsSJ
+2UiCi0GVzgk+Z8HTNzNT+U8fWQPKzGnhYxu/JXf9w/FDUCIOcRYmxJ6c1roISgD0
+5VyA79qlPNR3dK9NMUImuVHykIMsHsa22Oa6QIlNq/0OZTFf8U18QxOEhzUbgRaV
+djVROsjfAgMBAAECggEAN8wBLp8nnbMJzU3bQ9sQ1mT3UqQxJONo0kwgvGgv8yXq
+fGsRMhAOOeULumH7H/7qfmzyTq3fSMfXT0D8d/22Fe5QcRW85uq6RmDlOieyBovr
+PcU5Pqc/ja779XcEdYObdiHIXuGz69WWanNdfhJlDEB34Ve6SyAvPmGA9hdDvQHx
+FP8ZILrHiGXQtd2zdp0JhKueTPrSTV02c6XRYud+qXuyRav69l0/X32+0wT1SUpc
+tSaanb1EqqYIAIv7p7EaGJqqveNWLAMbLGqlLpDd35A8iLsHW7WxltD/JXFM9vNc
+3eRxgX6HWbPx/C2Avt+0fu2wYL60MoJh7VV4j5hzsQKBgQD8tz4Pefa0gImTs0oj
+huW12LVty4YsS6TEI+cedFbpDS05qvEwlNdm9vR0kw0A7+H/mT909muePlOAmP6Y
+dkBllQsUus+dSxBp8VtQ17r9WLL1vuAJThQNao8WW2FC6RCNItb5a/WTJuyBwIgP
+MjG1yqPcOiXLBj98plW2nuveMQKBgQD8WA0aEX+tWvOQ7IdL1iu018ANgilT87XX
+OfxLwMavuwNCh4WE6rJlNLBEhZ8YZaSCg3HhJbtRLqVmjJW0QbRMiuj+W+RjvLSl
+oKcmZoJUsIZYdxqQKsf5mSU4OdDIthRSuJ2rmH8SpKMUGKggzZtClD4DRTMa+YbC
+BfKxRPAEDwKBgQDuI8rykI6/J0T9jvz1H4BFbRIChcBI63s3bVG0bBMeB9GvPvuL
+OScGGv7e/1dIo8RGtOWMVU2yT68mRoXbq8shLmLDxQoxgfPUsaDIPJIzfKsfUiAS
+BKZ2wgxWGAQ+Jhv3s3X6khZW9V33IzPThgw779mbhJvqhle7IY8xyO4hcQKBgG6Z
+WQS37rHYTzCRuqrub7GPbkl9Zwe4pVZzv7SkBXE4EjGynD6pbw8UjL07o4NZ6USa
+v+riUrs+KphLvcGHmrKBn6T8OZnNN4/wXdJi03Sy+e8EJMxTM9qd2MZP8MZHp5ip
++dEfwXI2XpOMSwQ1mXsQ5i0gw0lrXDjlyn0PrfLZAoGADiEWl0NHFWrTb/LCznzT
+37GcgdgDm1y2Yw5bfVAKFYNLZIZdWOGL3UBE9qXgIydItr3kS7Qch+dP0w3rs8jS
+NFsdllG4zyYJsNHBAeAoRWAsIbluO932uWHBHCXUtzmbsdJvlrGI7nvfVrEYSi8/
+lUp4QjiU212lRjhV3SMw4QI=
+-----END PRIVATE KEY-----`,
+    client_email: "test1-382@file-upload-464110.iam.gserviceaccount.com",
+    client_id: "106378482562789733286",
+    auth_uri: "https://accounts.google.com/o/oauth2/auth",
+    token_uri: "https://oauth2.googleapis.com/token",
+    auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs",
+    client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/test1-382%40file-upload-464110.iam.gserviceaccount.com",
+    universe_domain: "googleapis.com"
+  };
+
+  // Authentication and upload state elements
+  const uploadArea = document.getElementById('uploadArea');
+  const fileInput = document.getElementById('fileInput');
+  const uploadButton = document.getElementById('uploadButton');
+  const buttonText = document.getElementById('buttonText');
+  const progressBar = document.getElementById('progressBar');
+  const downloadContainer = document.getElementById('downloadContainer');
+  const downloadBtn = document.getElementById('downloadBtn');
+  const messageDiv = document.getElementById('message');
+  const fileInfo = document.getElementById('fileInfo');
+  const fileName = document.getElementById('fileName');
+  const fileSize = document.getElementById('fileSize');
+  
+  function handleFile(file) {
+    if (file.size > MAX_FILE_SIZE) {
+      alert('❌ File size exceeds 2 MB limit. Please select a smaller file.');
+      fileInput.value = ''; // reset input
+      selectFileBtn.disabled = true;
+      downloadContainer.style.display = 'none';
+      return;
+    }
+
+  // Generate JWT for service account authentication
+  function generateJwt() {
+    // KJUR.jws.JWS.sign is provided by jsrsasign library, ensure you include it.
+    const header = { alg: 'RS256', typ: 'JWT' };
+    const now = Math.floor(Date.now() / 1000);
+    const payload = {
+      iss: keys.client_email,
+      scope: 'https://www.googleapis.com/auth/drive.file',
+      aud: keys.token_uri,
+      exp: now + 3600,
+      iat: now,
+    };
+
+    const sHeader = JSON.stringify(header);
+    const sPayload = JSON.stringify(payload);
+    const key = keys.private_key;
+
+    const jwt = KJUR.jws.JWS.sign('RS256', sHeader, sPayload, key);
+    return jwt;
+  }
+
+  // Exchange JWT for access token
+  async function getAccessToken(jwt) {
+    const response = await fetch(keys.token_uri, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: `grant_type=urn%3Aietf%3Aparams%3Aoauth%3Agrant-type%3Ajwt-bearer&assertion=${jwt}`,
+    });
+    const data = await response.json();
+    return data.access_token;
+  }
+
+  // Make uploaded file public and get direct download URL
+  async function makeFilePublic(fileId) {
+    try {
+      await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}/permissions`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${accessToken}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          role: 'reader',
+          type: 'anyone'
+        }),
+      });
+      return `https://drive.google.com/uc?export=download&id=${fileId}`;
+    } catch (error) {
+      console.error('Error making file public:', error);
+      return `https://drive.google.com/uc?export=download&id=${fileId}`;
+    }
+  }
+
+  // Initialize authentication
+  async function initAuth() {
+    try {
+      const jwt = generateJwt();
+      accessToken = await getAccessToken(jwt);
+      setMessage('✅ Authentication successful.', 'success');
+      updateButtonState();
+    } catch (error) {
+      setMessage(`❌ Authentication failed: ${error.message}`, 'error');
+      uploadButton.disabled = true;
+    }
+  }
+  
+
+  // Format bytes into readable file size
+  function formatFileSize(bytes) {
+    if (bytes === 0) return '0 Bytes';
+    const k = 1024;
+    const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+    const i = Math.floor(Math.log(bytes) / Math.log(k));
+    return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+  }
+
+  // Update progress bar width
+  function updateProgressBar(value) {
+    const progressFill = document.getElementById('progressFill');
+    if (progressFill) {
+      progressFill.style.width = `${value}%`;
+    }
+  }
+  
+
+  // Update upload button state depending on auth and selected file validity
+  function updateButtonState() {
+    if (!accessToken) {
+      uploadButton.disabled = true;
+      buttonText.textContent = 'Authenticating...';
+      return;
+    }
+    if (!file) {
+      uploadButton.disabled = true;
+      buttonText.textContent = 'Select a file';
+      clearMessage();
+      return;
+    }
+    if (file.size > MAX_FILE_SIZE) {
+      uploadButton.disabled = true;
+      buttonText.textContent = 'File exceeds 2 MB limit';
+      setMessage(`⚠️ File size (${formatFileSize(file.size)}) exceeds 2 MB limit. Please select a smaller file.`, 'error');
+      return;
+    }
+    uploadButton.disabled = false;
+    buttonText.textContent = 'Upload File';
+    setMessage('✔️ Ready to upload New or You can Download.', 'success');
+  }
+
+  // Show message with type: 'success' or 'error'
+  function setMessage(text, type) {
+    messageDiv.textContent = text;
+    messageDiv.className = `message ${type}`;
+  }
+
+  // Clear message area
+  function clearMessage() {
+    messageDiv.textContent = '';
+    messageDiv.className = 'message';
+  }
+
+  // Handle file selection event and validate size
+  function handleFileSelect(selectedFile) {
+    file = selectedFile;
+    if (!file) {
+      fileInfo.classList.remove('show');
+      setMessage('⚠️ No file selected.', 'error');
+      updateButtonState();
+      return;
+    }
+    if (file.size > MAX_FILE_SIZE) {
+      setMessage(`⚠️ File size (${formatFileSize(file.size)}) exceeds 2 MB limit. Please select a smaller file.`, 'error');
+      fileInfo.classList.remove('show');
+      file = null;
+    } else {
+      fileName.textContent = `📄 ${file.name}`;
+      fileSize.textContent = `📏 ${formatFileSize(file.size)}`;
+      fileInfo.classList.add('show');
+      setMessage('✔️ Ready to upload.', 'success');
+    }
+    updateButtonState();
+  }
+
+  // Show download link after successful upload
+  function showDownloadLink(url, fileName) {
+    downloadBtn.href = url;
+    downloadBtn.download = fileName;
+    downloadContainer.classList.add('show');
+
+    downloadBtn.addEventListener('click', () => {
+      setTimeout(() => {
+        downloadContainer.classList.remove('show');
+        setMessage('✔️ Download completed. Ready for new upload.', 'success');
+        fileInput.value = '';
+        fileInfo.classList.remove('show');
+        file = null;
+        updateButtonState();
+      }, 100);
+    }, { once: true });
+  }
+
+  // Event listeners for drag & drop
+  uploadArea.addEventListener('click', () => {
+    fileInput.click();
+  });
+
+  uploadArea.addEventListener('dragover', e => {
+    e.preventDefault();
+    uploadArea.classList.add('drag-over');
+  });
+
+  uploadArea.addEventListener('dragleave', () => {
+    uploadArea.classList.remove('drag-over');
+  });
+
+  uploadArea.addEventListener('drop', e => {
+    e.preventDefault();
+    uploadArea.classList.remove('drag-over');
+    if (e.dataTransfer.files.length > 0) {
+      handleFileSelect(e.dataTransfer.files[0]);
+    }
+  });
+
+  // File input change event
+  fileInput.addEventListener('change', e => {
+    if (e.target.files.length > 0) {
+      handleFileSelect(e.target.files[0]);
+    }
+  });
+
+  // Upload button click event with validation and progress
+  uploadButton.addEventListener('click', async () => {
+    if (!file || !accessToken || file.size > MAX_FILE_SIZE) {
+      setMessage('⚠️ Please select a file under 2 MB and ensure authentication.', 'error');
+      return;
+    }
+
+    uploadButton.disabled = true;
+    buttonText.style.opacity = '0';
+    progressBar.classList.add('show');
+    updateProgressBar(0);
+    let progress = 0;
+
+    const progressInterval = setInterval(() => {
+      progress += Math.random() * 10;
+      if (progress >= 90) progress = 90;
+      updateProgressBar(progress);
+    }, 200);
+
+    setMessage('⏳ Uploading...', 'success');
+
+    try {
+      const metadata = {
+        name: file.name,
+        parents: [FOLDER_ID],
+        mimeType: file.type || 'application/octet-stream',
+      };
+
+      const form = new FormData();
+      form.append('metadata', new Blob([JSON.stringify(metadata)], { type: 'application/json' }));
+      form.append('file', file);
+
+      const response = await fetch('https://www.googleapis.com/upload/drive/v3/files?uploadType=multipart', {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${accessToken}`,
+        },
+        body: form,
+      });
+
+      clearInterval(progressInterval);
+      updateProgressBar(100);
+
+      if (response.ok) {
+        const result = await response.json();
+        const downloadUrl = await makeFilePublic(result.id);
+        setMessage('✅ Upload successful! Ready to Download.', 'success');
+        showDownloadLink(downloadUrl, file.name);
+      } else {
+        const error = await response.json();
+        setMessage(`❌ Upload failed: ${error.error.message}`, 'error');
+        downloadContainer.classList.remove('show');
+      }
+    } catch (error) {
+      clearInterval(progressInterval);
+      setMessage(`❌ Upload error: ${error.message}`, 'error');
+      downloadContainer.classList.remove('show');
+    } finally {
+      setTimeout(() => {
+        buttonText.style.opacity = '1';
+        progressBar.classList.remove('show');
+        updateProgressBar(0);
+        updateButtonState();
+      }, 500);
+    }
+  });
+
+  // Start authentication on load
+  initAuth();
+});
